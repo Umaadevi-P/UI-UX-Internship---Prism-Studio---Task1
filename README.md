@@ -1,7 +1,8 @@
 # UX-Task 1
-To understand the target audience by conducting basic user research and crafting well-defined user personas.
 Submission for PrismStudio Internship – UX Research Task 1
+
 Created by: Umaadevi P
+
 Date: July 2025
 
 
